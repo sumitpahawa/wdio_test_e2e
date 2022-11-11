@@ -1,6 +1,5 @@
 Feature: Web Interactions
 
-    @demo
     Scenario Outline: Demo web interaction
         Given A web page is opened
         When Perform web Interactions.
